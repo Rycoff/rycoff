@@ -2,7 +2,7 @@
 
 <h3 align="center">HTB & HTB Academy | CTF | Bug Bounty</h3>
 
-- 🔭 I recently started working as a Cyber Security Engineer
+- 🔭 Working as a Cyber Security Engineer
 - 🌱 I’m currently learning Python and SQL
 - ⚡ Some facts: On my spare time I like to do CTFs, HTB, HTB Academy and Bug Bounty
 - 📫 How to reach me: **rycoff@protonmail.com**
